@@ -1,0 +1,9 @@
+name = "Twitch"
+uuid = "784df20b-8885-49bf-9cd9-555b1fa67e21"
+authors = ["Kranplatzlarry <kranplatzlarry@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
