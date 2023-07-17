@@ -8,7 +8,7 @@ makedocs(;
         assets = ["assets/logo.ico"],
     ),
     pages=[
-        # "Introduction" => "index.md",
+        "Introduction" => "index.md",
         # "API" => "api.md",
     ],
     repo="https://github.com/8me/Twitch.jl/blob/{commit}{path}#L{line}",
