@@ -12,6 +12,17 @@
 **Twitch.jl** is a package for interfacting Twitch functionalities. At the moment this
 includes communication with the chat server, but is intented to include Helix API soon.
 
+## Contribution
+
+You are invited to contribute to the project with ideas for improvements or bug reports via
+[issues](https://github.com/8me/Twitch.jl/issues) or event better with some code via a [PR](https://github.com/8me/Twitch.jl/pulls). 
+
+#### Help Wanted Issues
+
+If some issue are marked [help wanted](https://github.com/8me/Twitch.jl/labels/help%20wanted) please feel
+free to jump in and help solve it if yoou have some ideas.
+
+
 <!-- ```@index -->
 <!-- ``` -->
 <!--  -->
