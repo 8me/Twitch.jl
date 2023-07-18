@@ -30,4 +30,8 @@ resp = Twitch.response(testmsg)
 @test resp.channelname == "justinfan5"
 @test resp.timestamp == Dates.DateTime("2023-03-19T23:05:24.076")
 @test resp.ismod
+@test resp.channelroomid == 1234556
 @test ~resp.isreturning
+@test ~resp.isturbouser
+@test ~resp.isvip
+@test resp.replyid == UUID("771172a8-8cbc-486a-89a1-9faf13f81a86")
