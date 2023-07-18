@@ -1,4 +1,4 @@
-<img style="height:9em;" alt="Twitch.jl" src="docs/src/assets/logo.svg"/>
+<img style="height:9em;" alt="Twitch.jl" src="assets/logo.svg"/>
 
 ## Introduction
 
