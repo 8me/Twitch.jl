@@ -17,7 +17,7 @@ In order to connect to the chat the `chatreceiver` is employed and run within a
 
 ```julia
 
-addr = "irc.chat.twitch.tv
+addr = "irc.chat.twitch.tv"
 port = 6667
 user = "justinfan8912"
 oauth = "dummy"
