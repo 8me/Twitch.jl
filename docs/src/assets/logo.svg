@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="107.002mm"
-   height="44.200001mm"
-   viewBox="0 0 107.002 44.2"
+   width="109mm"
+   height="46.042999mm"
+   viewBox="0 0 109 46.042998"
    version="1.1"
    id="svg431"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -19,15 +19,15 @@
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
      showguides="true"
      inkscape:zoom="1.9084696"
-     inkscape:cx="254.9163"
-     inkscape:cy="40.084475"
+     inkscape:cx="255.44028"
+     inkscape:cy="40.084474"
      inkscape:window-width="1912"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -35,12 +35,12 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <sodipodi:guide
-       position="45.412739,33.269575"
+       position="45.412737,35.112572"
        orientation="1,0"
        id="guide1923"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="91.168585,25.721208"
+       position="91.168581,27.564205"
        orientation="1,0"
        id="guide1925"
        inkscape:locked="false" />
@@ -52,14 +52,18 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
+       id="path487"
+       style="fill:none;stroke:#ffffff;stroke-width:1.34491;stroke-opacity:0.80000001"
+       d="M 0.67245501,0.67245501 V 34.559071 c 13.86362999,-0.0093 27.93371299,-2.73e-4 41.79734899,0 L 42.470332,44.65843 55.31081,34.559071 H 99.92669 L 108.32753,26.54029 108.327,0.67245501 Z" />
+    <path
        id="rect1270"
-       style="fill:none;stroke:#000000;stroke-width:1.30585"
-       d="M 0.65267334 0.65267334 L 0.65267334 33.191256 C 14.264202 33.182356 28.078428 33.190993 41.689962 33.191256 L 41.690479 42.888855 L 54.297461 33.191256 L 98.102022 33.191256 L 106.3501 25.491467 L 106.34958 0.65267334 L 0.65267334 0.65267334 z " />
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.30585;fill-opacity:0.80000001"
+       d="m 1.652925,1.652925 v 32.538583 c 13.611529,-0.0089 27.425755,-2.63e-4 41.037289,0 l 5.17e-4,9.697599 12.606982,-9.697599 h 43.804561 l 8.248076,-7.699789 -5.2e-4,-24.838794 z" />
     <g
        aria-label="Twitch.jl"
        id="text1484"
        style="font-weight:300;font-size:21.1667px;font-family:JuliaMono;-inkscape-font-specification:'JuliaMono Light';fill:none;stroke:#000000;stroke-width:2.265"
-       transform="translate(0,0.3357843)">
+       transform="translate(1.0001268,1.3357843)">
       <path
          d="M 23.518503,8.1315525 V 9.3821241 H 18.423198 V 22.849024 H 14.816177 V 9.3821241 H 9.7208732 V 8.1315525 Z"
          style="font-weight:normal;font-family:'Tamil MN';-inkscape-font-specification:'Tamil MN';fill:#000000;stroke:none"
@@ -103,7 +107,7 @@
     </g>
     <g
        id="g890"
-       transform="matrix(0.21689206,0,0,0.21689206,20.542838,2.881)">
+       transform="matrix(0.21689206,0,0,0.21689206,21.543159,3.881)">
       <path
          id="path13"
          d="m 105.79,36.33 a 8.9,8.9 0 1 1 8.91,-8.9 8.91,8.91 0 0 1 -8.91,8.9 z"
