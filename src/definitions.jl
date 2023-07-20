@@ -4,7 +4,9 @@
     ban = 3
 end
 
-struct Message
+abstract type ChatInformation end
+
+struct Message <: ChatInformation
     messageid::UUID
     replyid::UUID
     viewernick::AbstractString
@@ -20,7 +22,7 @@ struct Message
     isvip::Bool
 end
 
-struct Notice
+struct Notice <: ChatInformation
     messageid::UUID
     viewernick::AbstractString
     vieweruid::Int64
