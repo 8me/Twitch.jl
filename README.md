@@ -1,4 +1,4 @@
-<img style="height:9em;" alt="UnROOT.jl" src="docs/src/assets/logo.svg"/>
+<img style="height:9em;" alt="Twitch.jl" src="docs/src/assets/logo.svg"/>
 
 
 <!-- [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://8me.github.io/Twitch.jl/stable) -->
